@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Elioth-Gray/atlas-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Elioth-Gray/atlas-backend-core.git
+[submodule "ai-service"]
+	path = ai-service
+	url = https://github.com/ahmdrezaa/atlas-ai-service.git
